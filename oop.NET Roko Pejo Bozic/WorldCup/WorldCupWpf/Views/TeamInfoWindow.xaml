@@ -1,0 +1,16 @@
+﻿<Window x:Class="WorldCupWpfApp.Views.TeamInfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Team Info" Height="250" Width="400"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded" Opacity="0">
+    <Grid Margin="20">
+        <StackPanel>
+            <TextBlock x:Name="TeamName" FontSize="18" FontWeight="Bold" Margin="0,0,0,10"/>
+            <TextBlock x:Name="FifaCode"/>
+            <TextBlock x:Name="Goals"/>
+            <TextBlock x:Name="YellowCards"/>
+            <Button x:Name="CloseButton" Content="Close" HorizontalAlignment="Right" Margin="0,20,0,0" Click="Close_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

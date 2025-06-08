@@ -1,0 +1,52 @@
+﻿<Window x:Class="WorldCupWpfApp.Views.StartingLineupWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:WorldCupWpfApp.Controls"
+        Title="Starting Lineups" WindowStartupLocation="CenterScreen"
+        KeyDown="Window_KeyDown">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="pack://application:,,,/Resources/field.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+        <Grid Margin="20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="5" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <!-- Home Team -->
+            <Border Grid.Column="0" 
+                    BorderBrush="White" 
+                    BorderThickness="1" 
+                    Background="#CCFFFFFF" 
+                    CornerRadius="5" 
+                    Padding="10">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <Grid x:Name="HomePanel"/>
+                </ScrollViewer>
+            </Border>
+
+            <!-- Divider -->
+            <Rectangle Grid.Column="1" 
+                      Fill="White" 
+                      Width="1" 
+                      VerticalAlignment="Stretch"/>
+
+            <!-- Away Team -->
+            <Border Grid.Column="2" 
+                    BorderBrush="White" 
+                    BorderThickness="1" 
+                    Background="#CCFFFFFF" 
+                    CornerRadius="5" 
+                    Padding="10">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <Grid x:Name="AwayPanel"/>
+                </ScrollViewer>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>
+
+

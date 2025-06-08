@@ -1,0 +1,36 @@
+﻿<Window x:Class="WorldCupWpfApp.Views.PlayerDetailsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Player Details" Height="450" Width="600"
+        WindowStartupLocation="CenterScreen"
+        Opacity="0" Loaded="Window_Loaded">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="255"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Player Name at the top -->
+        <TextBlock x:Name="PlayerName" Grid.Row="0" Grid.Column="0" FontSize="24" FontWeight="Bold" Margin="0,0,0,20"/>
+
+        <!-- Player Details on the left -->
+        <StackPanel Grid.Row="1" Grid.Column="0" Margin="0,0,20,0">
+            <TextBlock x:Name="ShirtNumber" FontSize="16" Margin="0,0,0,10"/>
+            <TextBlock x:Name="Position" FontSize="16" Margin="0,0,0,10"/>
+            <TextBlock x:Name="IsCaptain" FontSize="16" Margin="0,0,0,10"/>
+            <TextBlock x:Name="Goals" FontSize="16" Margin="0,0,0,10"/>
+            <TextBlock x:Name="YellowCards" FontSize="16" Margin="0,0,0,10"/>
+            <Button Content="Close" HorizontalAlignment="Left" Click="Close_Click" Margin="0,20,0,0"/>
+        </StackPanel>
+
+        <!-- Player Image on the right -->
+        <Border Grid.Row="1" Grid.Column="1" BorderBrush="Gray" BorderThickness="1" Padding="5">
+            <Image x:Name="PlayerImage" Stretch="UniformToFill" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+        </Border>
+    </Grid>
+</Window>
+

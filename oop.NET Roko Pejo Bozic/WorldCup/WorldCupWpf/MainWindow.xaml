@@ -1,0 +1,50 @@
+﻿<Window x:Class="WorldCupWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WorldCupWpfApp"
+        mc:Ignorable="d"
+        Title="World Cup App" Height="450" Width="800"
+        KeyDown="Window_KeyDown"
+        GotFocus="Window_GotFocus">
+    <Grid x:Name="MainGrid">
+        <!-- Main Content Grid -->
+        <Grid Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Orientation="Vertical" Grid.Row="0" Margin="0,0,0,10">
+                <TextBlock x:Name="SelectTeamLabel" Text="Select Your Team:" FontWeight="Bold"/>
+                <ComboBox x:Name="TeamComboBox" SelectionChanged="TeamComboBox_SelectionChanged" />
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" Grid.Row="1" Margin="0,0,0,10">
+                <TextBlock x:Name="SelectOpponentLabel" Text="Select Opponent:" FontWeight="Bold"/>
+                <ComboBox x:Name="OpponentComboBox" SelectionChanged="OpponentComboBox_SelectionChanged" />
+            </StackPanel>
+
+            <TextBlock Grid.Row="2" x:Name="ResultText" FontSize="16" FontWeight="Bold" Margin="0,10,0,10"/>
+
+            <StackPanel Orientation="Horizontal" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,20,0,0">
+                <Button x:Name="HomeInfoButton" Content="Your Team Info" Click="HomeInfoButton_Click" Margin="10" IsDefault="False" Focusable="False"/>
+                <Button x:Name="AwayInfoButton" Content="Opponent Info" Click="AwayInfoButton_Click" Margin="10" IsDefault="False" Focusable="False"/>
+            </StackPanel>
+            <Button x:Name="ShowLineupButton" Content="View Starting XI" HorizontalAlignment="Center" Margin="0,83,0,0" Grid.Row="3" VerticalAlignment="Top" Height="31" Width="179" AutomationProperties.Name="ShowLineup" Click="ShowLineup_Click" IsDefault="False" Focusable="False"/>
+        </Grid>
+        <!-- Loading Overlay on top -->
+        <Grid x:Name="LoadingOverlay" Background="#80000000" Visibility="Collapsed" Panel.ZIndex="100">
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <ProgressBar IsIndeterminate="True" Width="120" Height="20"/>
+                <TextBlock x:Name="LoadingText" Text="Loading..." Foreground="White" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+            </StackPanel>
+        </Grid>
+        <!-- Back to Initial Settings Button -->
+        <Button x:Name="BackToSettingsButton" Content="Settings" Width="80" Height="28" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,5,5,0" Click="BackToSettingsButton_Click" IsDefault="False" Focusable="False"/>
+    </Grid>
+</Window>
+
