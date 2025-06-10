@@ -1,25 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\",
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE610104-A096-423C-B85E-ECAA41D852E7}|WorldCupWpf\\WorldCupWpf.csproj|c:\\users\\ivan\\desktop\\oop.net\\worldcup\\worldcupwpf\\controls\\playercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE610104-A096-423C-B85E-ECAA41D852E7}|WorldCupWpf\\WorldCupWpf.csproj|c:\\users\\ivan\\desktop\\oop.net\\oop.net roko pejo bozic\\worldcup\\worldcupwpf\\views\\playerdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE610104-A096-423C-B85E-ECAA41D852E7}|WorldCupWpf\\WorldCupWpf.csproj|solutionrelative:worldcupwpf\\views\\playerdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE610104-A096-423C-B85E-ECAA41D852E7}|WorldCupWpf\\WorldCupWpf.csproj|c:\\users\\ivan\\desktop\\oop.net\\oop.net roko pejo bozic\\worldcup\\worldcupwpf\\views\\playerdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE610104-A096-423C-B85E-ECAA41D852E7}|WorldCupWpf\\WorldCupWpf.csproj|solutionrelative:worldcupwpf\\views\\playerdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE610104-A096-423C-B85E-ECAA41D852E7}|WorldCupWpf\\WorldCupWpf.csproj|c:\\users\\ivan\\desktop\\oop.net\\oop.net roko pejo bozic\\worldcup\\worldcupwpf\\controls\\playercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE610104-A096-423C-B85E-ECAA41D852E7}|WorldCupWpf\\WorldCupWpf.csproj|solutionrelative:worldcupwpf\\controls\\playercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF8A059-08E3-400B-9E93-DF0F9770A426}|WorldCupWinForms\\WorldCupWinForms.csproj|c:\\users\\ivan\\desktop\\oop.net\\worldcup\\worldcupwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FB8C03A-FB0C-4DE0-9A6E-1FEA27FE339F}|WorldCupDataLayer\\WorldCupDataLayer.csproj|c:\\users\\ivan\\desktop\\oop.net\\oop.net roko pejo bozic\\worldcup\\worldcupdatalayer\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB8C03A-FB0C-4DE0-9A6E-1FEA27FE339F}|WorldCupDataLayer\\WorldCupDataLayer.csproj|solutionrelative:worldcupdatalayer\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF8A059-08E3-400B-9E93-DF0F9770A426}|WorldCupWinForms\\WorldCupWinForms.csproj|c:\\users\\ivan\\desktop\\oop.net\\oop.net roko pejo bozic\\worldcup\\worldcupwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF8A059-08E3-400B-9E93-DF0F9770A426}|WorldCupWinForms\\WorldCupWinForms.csproj|solutionrelative:worldcupwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF8A059-08E3-400B-9E93-DF0F9770A426}|WorldCupWinForms\\WorldCupWinForms.csproj|C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\worldcupwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ABF8A059-08E3-400B-9E93-DF0F9770A426}|WorldCupWinForms\\WorldCupWinForms.csproj|C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\worldcupwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ABF8A059-08E3-400B-9E93-DF0F9770A426}|WorldCupWinForms\\WorldCupWinForms.csproj|solutionrelative:worldcupwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE610104-A096-423C-B85E-ECAA41D852E7}|WorldCupWpf\\WorldCupWpf.csproj|c:\\users\\ivan\\desktop\\oop.net\\worldcup\\worldcupwpf\\views\\startinglineupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE610104-A096-423C-B85E-ECAA41D852E7}|WorldCupWpf\\WorldCupWpf.csproj|c:\\users\\ivan\\desktop\\oop.net\\oop.net roko pejo bozic\\worldcup\\worldcupwpf\\views\\startinglineupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE610104-A096-423C-B85E-ECAA41D852E7}|WorldCupWpf\\WorldCupWpf.csproj|solutionrelative:worldcupwpf\\views\\startinglineupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE610104-A096-423C-B85E-ECAA41D852E7}|WorldCupWpf\\WorldCupWpf.csproj|c:\\users\\ivan\\desktop\\oop.net\\worldcup\\worldcupwpf\\views\\teaminfowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE610104-A096-423C-B85E-ECAA41D852E7}|WorldCupWpf\\WorldCupWpf.csproj|c:\\users\\ivan\\desktop\\oop.net\\oop.net roko pejo bozic\\worldcup\\worldcupwpf\\views\\teaminfowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE610104-A096-423C-B85E-ECAA41D852E7}|WorldCupWpf\\WorldCupWpf.csproj|solutionrelative:worldcupwpf\\views\\teaminfowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,15 +42,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\WorldCupWinForms\\MainForm.cs",
+              "Title": "PlayerDetailsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWpf\\Views\\PlayerDetailsWindow.xaml",
+              "RelativeDocumentMoniker": "WorldCupWpf\\Views\\PlayerDetailsWindow.xaml",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWpf\\Views\\PlayerDetailsWindow.xaml",
+              "RelativeToolTip": "WorldCupWpf\\Views\\PlayerDetailsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-10T12:01:02.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerDetailsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWpf\\Views\\PlayerDetailsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WorldCupWpf\\Views\\PlayerDetailsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWpf\\Views\\PlayerDetailsWindow.xaml.cs*",
+              "RelativeToolTip": "WorldCupWpf\\Views\\PlayerDetailsWindow.xaml.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:51:06.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupDataLayer\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "WorldCupDataLayer\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupDataLayer\\Services\\ApiService.cs",
+              "RelativeToolTip": "WorldCupDataLayer\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:26:22.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWpf\\Controls\\PlayerControl.xaml.cs",
+              "RelativeDocumentMoniker": "WorldCupWpf\\Controls\\PlayerControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWpf\\Controls\\PlayerControl.xaml.cs",
+              "RelativeToolTip": "WorldCupWpf\\Controls\\PlayerControl.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAxwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:49:54.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWinForms\\MainForm.cs",
               "RelativeDocumentMoniker": "WorldCupWinForms\\MainForm.cs",
-              "ToolTip": "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\WorldCupWinForms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWinForms\\MainForm.cs [Design]",
+              "RelativeToolTip": "WorldCupWinForms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:50:42.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWinForms\\MainForm.cs",
+              "RelativeDocumentMoniker": "WorldCupWinForms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWinForms\\MainForm.cs",
               "RelativeToolTip": "WorldCupWinForms\\MainForm.cs",
               "ViewState": "AgIAAGcDAAAAAAAAAAAUwPMCAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,34 +121,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\WorldCupWinForms\\MainForm.cs",
-              "RelativeDocumentMoniker": "WorldCupWinForms\\MainForm.cs",
-              "ToolTip": "D:\\oop.NET\\WorldCup\\WorldCupWinForms\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T15:50:42.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\WorldCupWpf\\Controls\\PlayerControl.xaml.cs",
-              "RelativeDocumentMoniker": "WorldCupWpf\\Controls\\PlayerControl.xaml.cs",
-              "ToolTip": "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\WorldCupWpf\\Controls\\PlayerControl.xaml.cs",
-              "RelativeToolTip": "WorldCupWpf\\Controls\\PlayerControl.xaml.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwDcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T15:49:54.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "StartingLineupWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\WorldCupWpf\\Views\\StartingLineupWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWpf\\Views\\StartingLineupWindow.xaml.cs",
               "RelativeDocumentMoniker": "WorldCupWpf\\Views\\StartingLineupWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\WorldCupWpf\\Views\\StartingLineupWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWpf\\Views\\StartingLineupWindow.xaml.cs",
               "RelativeToolTip": "WorldCupWpf\\Views\\StartingLineupWindow.xaml.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -82,11 +133,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "TeamInfoWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\WorldCupWpf\\Views\\TeamInfoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWpf\\Views\\TeamInfoWindow.xaml.cs",
               "RelativeDocumentMoniker": "WorldCupWpf\\Views\\TeamInfoWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\WorldCupWpf\\Views\\TeamInfoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWpf\\Views\\TeamInfoWindow.xaml.cs",
               "RelativeToolTip": "WorldCupWpf\\Views\\TeamInfoWindow.xaml.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

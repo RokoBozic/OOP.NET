@@ -3666,11 +3666,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\WorldCupWinForms\\WorldCupWinForms.csproj",
+      "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWinForms\\WorldCupWinForms.csproj",
       "projectName": "WorldCupWinForms",
-      "projectPath": "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\WorldCupWinForms\\WorldCupWinForms.csproj",
+      "projectPath": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWinForms\\WorldCupWinForms.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\WorldCupWinForms\\obj\\",
+      "outputPath": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWinForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3691,8 +3691,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\WorldCupDataLayer\\WorldCupDataLayer.csproj": {
-              "projectPath": "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\WorldCupDataLayer\\WorldCupDataLayer.csproj"
+            "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupDataLayer\\WorldCupDataLayer.csproj": {
+              "projectPath": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupDataLayer\\WorldCupDataLayer.csproj"
             }
           }
         }

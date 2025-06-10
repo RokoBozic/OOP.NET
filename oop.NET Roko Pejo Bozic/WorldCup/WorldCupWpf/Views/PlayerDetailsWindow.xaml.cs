@@ -20,12 +20,23 @@ namespace WorldCupWpfApp.Views
             Goals.Text = $"{LocalizationService.Translate("goals")}: {goals}";
             YellowCards.Text = $"{LocalizationService.Translate("yellow_cards")}: {yellowCards}";
 
-            // Load player image (WinForms logic)
-            string imagePath = Path.Combine("C:", "Users", "Ivan", "Desktop", "oop.NET", "WorldCup", "WorldCupWinForms", "bin", "Debug", "net8.0-windows", "Resources", "PlayerImages", $"{player.Name}.jpg");
-            string defaultImagePath = Path.Combine("C:", "Users", "Ivan", "Desktop", "oop.NET", "WorldCup", "WorldCupWinForms", "bin", "Debug", "net8.0-windows", "Resources", "default_image.png");
-            
             try
             {
+                // Get the base directory of the WPF app (i.e., bin\Debug\net8.0-windows)
+                string wpfBinPath = AppContext.BaseDirectory;
+
+                // Navigate to WorldCup\ folder (solution root)
+                string solutionRoot = Path.GetFullPath(Path.Combine(wpfBinPath, @"..\..\..\.."));
+
+                // Navigate to the WinForms build output path
+                string winFormsImagePath = Path.Combine(solutionRoot, @"WorldCupWinForms\bin\Debug\net8.0-windows\Resources\PlayerImages");
+                string winFormsDefaultImagePath = Path.Combine(solutionRoot, @"WorldCupWinForms\bin\Debug\net8.0-windows\Resources\default_image.png");
+
+                // Form the final image path
+                string imagePath = Path.Combine(winFormsImagePath, $"{player.Name}.jpg");
+                string defaultImagePath = winFormsDefaultImagePath;
+
+                // Try to load the player image
                 if (File.Exists(imagePath))
                 {
                     PlayerImage.Source = new BitmapImage(new Uri(imagePath));

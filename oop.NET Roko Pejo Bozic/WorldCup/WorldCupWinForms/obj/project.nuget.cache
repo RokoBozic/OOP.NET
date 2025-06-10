@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "glX2gRlyw5M=",
+  "dgSpecHash": "mh56aMEJRzs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan\\Desktop\\oop.NET\\WorldCup\\WorldCupWinForms\\WorldCupWinForms.csproj",
+  "projectFilePath": "C:\\Users\\Ivan\\Desktop\\OOP.NET\\oop.NET Roko Pejo Bozic\\WorldCup\\WorldCupWinForms\\WorldCupWinForms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",

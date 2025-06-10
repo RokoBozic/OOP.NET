@@ -18,3 +18,24 @@ C:\Users\Ivan\Desktop\oop.NET\WorldCup\WorldCupDataLayer\obj\Debug\net8.0\WorldC
 C:\Users\Ivan\Desktop\oop.NET\WorldCup\WorldCupDataLayer\obj\Debug\net8.0\refint\WorldCupDataLayer.dll
 C:\Users\Ivan\Desktop\oop.NET\WorldCup\WorldCupDataLayer\obj\Debug\net8.0\WorldCupDataLayer.pdb
 C:\Users\Ivan\Desktop\oop.NET\WorldCup\WorldCupDataLayer\obj\Debug\net8.0\ref\WorldCupDataLayer.dll
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\bin\Debug\net8.0\Resources\men\group_results.json
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\bin\Debug\net8.0\Resources\men\matches.json
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\bin\Debug\net8.0\Resources\men\results.json
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\bin\Debug\net8.0\Resources\men\teams.json
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\bin\Debug\net8.0\Resources\women\group_results.json
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\bin\Debug\net8.0\Resources\women\matches.json
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\bin\Debug\net8.0\Resources\women\results.json
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\bin\Debug\net8.0\Resources\women\teams.json
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\bin\Debug\net8.0\WorldCupDataLayer.deps.json
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\bin\Debug\net8.0\WorldCupDataLayer.dll
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\bin\Debug\net8.0\WorldCupDataLayer.pdb
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\obj\Debug\net8.0\WorldCupDataLayer.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\obj\Debug\net8.0\WorldCupDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\obj\Debug\net8.0\WorldCupDataLayer.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\obj\Debug\net8.0\WorldCupDataLayer.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\obj\Debug\net8.0\WorldCupDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\obj\Debug\net8.0\WorldCupDataLayer.sourcelink.json
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\obj\Debug\net8.0\WorldCupDataLayer.dll
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\obj\Debug\net8.0\refint\WorldCupDataLayer.dll
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\obj\Debug\net8.0\WorldCupDataLayer.pdb
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupDataLayer\obj\Debug\net8.0\ref\WorldCupDataLayer.dll

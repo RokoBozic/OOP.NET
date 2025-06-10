@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Ivan\Desktop\oop.NET\WorldCup\WorldCupWpf\obj\Debug\net8.0-windows\
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupWpf\obj\Debug\net8.0-windows\
 WorldCupWpf
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\Ivan\Desktop\oop.NET\WorldCup\WorldCupWpf\App.xaml
+C:\Users\Ivan\Desktop\OOP.NET\oop.NET Roko Pejo Bozic\WorldCup\WorldCupWpf\App.xaml
 6-839358621
 
 121880790951
-200632538302
+200681431496
 Controls\PlayerControl.xaml;MainWindow.xaml;Views\InitialSettingsWindow.xaml;Views\PlayerDetailsWindow.xaml;Views\StartingLineupWindow.xaml;Views\TeamInfoWindow.xaml;
 
 False

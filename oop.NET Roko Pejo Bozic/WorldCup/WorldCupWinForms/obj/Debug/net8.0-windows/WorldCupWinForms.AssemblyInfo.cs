@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorldCupWinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e20f7669162b869b848d94e18d5b502b80733f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorldCupWinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorldCupWinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
